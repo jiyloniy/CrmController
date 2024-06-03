@@ -1,1 +1,1 @@
-# CrmController
+Maktab uchun CRM tizim 
